@@ -1,0 +1,105 @@
+
+p{
+    font-size: smaller;
+}
+
+.double-line{border-top: 3px double #8c8b8b;}
+
+#toptitle{
+    color: blue;
+}
+
+#td-layout-menu {
+    background:#f6ebeb;
+    border: 1px solid rgb(199, 168, 168);
+    width: 45px;
+    height: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.home-section{
+    color: blue;
+}
+
+.menu-item{
+    font-size: small;
+    margin: 3px;
+}
+
+#layout-content{
+    padding: 10px;
+
+}
+
+a{text-decoration: none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+div.infoblock > div.blockcontent {
+    background: #f1f1de;
+    border: 1px solid rgb(162, 155, 155);
+}
+
+div.infoblock > div.blocktitle {
+	color: #c22222;
+}
+
+.bio-section{
+    color: blue;
+}
+
+.research-title{
+    color: blue;
+    text-align: center;
+}
+
+.research-section{
+    color:blue;
+}
+
+
+
+.bio-title{
+    color: blue;
+}
+
+
+.group-title{
+    color: blue;
+}
+
+
+.publication-title{
+    color: blue;
+
+}
+.publication-section{
+    color: blue;
+}
+
+.teaching-title{
+    color: blue;
+}
+
+.group-item{
+    margin: -13px;
+}
+
+.courses-item{
+    margin: -13px;
+}
+
+.group-section{
+    color: blue;
+}
+
+.activities-title{
+    color: blue;
+}
+.activities-section{
+    color: blue;
+}
